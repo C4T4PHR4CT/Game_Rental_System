@@ -1,0 +1,68 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\proof of concept\\SEP3 - tier 1\\WebApplication7.csproj",
+    "projectName": "WebApplication7",
+    "projectPath": "D:\\proof of concept\\SEP3 - tier 1\\WebApplication7.csproj",
+    "outputPath": "D:\\proof of concept\\SEP3 - tier 1\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://nuget.telerik.com/nuget": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Components.DataAnnotations.Validation": {
+          "target": "Package",
+          "version": "[3.2.0-rc1.20223.4, )"
+        },
+        "MudBlazor": {
+          "target": "Package",
+          "version": "[1.1.5, )"
+        },
+        "Syncfusion.Blazor": {
+          "target": "Package",
+          "version": "[18.3.0.52, )"
+        },
+        "Telerik.UI.for.Blazor": {
+          "target": "Package",
+          "version": "[2.20.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xoxo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xoxo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\xoxo\AppData\Roaming\JetBrains\Rider2020.2\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\xoxo\AppData\Roaming\JetBrains\Rider2020.2\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\xoxo\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="D:\proof of concept\SEP3 - tier 1" t="IncludeRecursive">
+      <e p="_Imports.razor" t="Include" />
+      <e p="App.razor" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Authentication" t="Include">
+        <e p="CustomAuthenticationStateProvider.cs" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Data" t="Include">
+        <e p="GameService.cs" t="Include" />
+        <e p="HttpService.cs" t="Include" />
+        <e p="IGameService.cs" t="Include" />
+        <e p="IHttpService.cs" t="Include" />
+        <e p="IRentService.cs" t="Include" />
+        <e p="IUserService.cs" t="Include" />
+        <e p="RentService.cs" t="Include" />
+        <e p="UserService.cs" t="Include" />
+      </e>
+      <e p="Model" t="Include">
+        <e p="Comment.cs" t="Include" />
+        <e p="Game.cs" t="Include" />
+        <e p="Rate.cs" t="Include" />
+        <e p="Rent.cs" t="Include" />
+        <e p="Search.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UserPw.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="WebApplication7.AssemblyInfo.cs" t="Include" />
+            <e p="WebApplication7.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_Host.cshtml" t="Include" />
+        <e p="AddGame.razor" t="Include" />
+        <e p="Data.razor" t="Include" />
+        <e p="EditGame.razor" t="Include" />
+        <e p="Index.razor" t="Include" />
+        <e p="MyGames.razor" t="Include" />
+        <e p="MyProfile.razor" t="Include" />
+        <e p="MyRents.razor" t="Include" />
+        <e p="Register.razor" t="Include" />
+        <e p="RentGame.razor" t="Include" />
+        <e p="ViewGame.razor" t="Include" />
+        <e p="ViewGames.razor" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Shared" t="Include">
+        <e p="MainLayout.razor" t="Include" />
+        <e p="Navbar.razor" t="Include" />
+        <e p="RedirectToHome.razor" t="Include" />
+        <e p="RedirectToLogin.razor" t="Include" />
+        <e p="TelerikLayout.razor" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="WebApplication7.csproj" t="IncludeRecursive" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="addGame.css" t="Include" />
+          <e p="bulma" t="Include">
+            <e p="bulma.min.css" t="Include" />
+          </e>
+          <e p="fontawesome" t="Include">
+            <e p="all.min.css" t="Include" />
+          </e>
+          <e p="form.css" t="Include" />
+          <e p="index.css" t="Include" />
+          <e p="login.css" t="Include" />
+          <e p="open-iconic" t="Include">
+            <e p="font" t="Include">
+              <e p="css" t="Include">
+                <e p="open-iconic-bootstrap.min.css" t="Include" />
+              </e>
+              <e p="fonts" t="Include">
+                <e p="open-iconic.eot" t="Include" />
+                <e p="open-iconic.otf" t="Include" />
+                <e p="open-iconic.svg" t="Include" />
+                <e p="open-iconic.ttf" t="Include" />
+                <e p="open-iconic.woff" t="Include" />
+              </e>
+            </e>
+            <e p="FONT-LICENSE" t="Include" />
+            <e p="ICON-LICENSE" t="Include" />
+            <e p="README.md" t="Include" />
+          </e>
+          <e p="register.css" t="Include" />
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="images" t="Include">
+          <e p="logo.png" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="all.min.js" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

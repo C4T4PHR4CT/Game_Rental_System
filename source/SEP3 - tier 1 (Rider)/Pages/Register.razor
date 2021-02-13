@@ -1,0 +1,71 @@
+﻿@page "/Register"
+@using WebApplication7.Data
+@using WebApplication7.Model
+@using System.ComponentModel.DataAnnotations
+@using WebApplication7.Authentication
+@attribute [AllowAnonymous]
+@inject NavigationManager NavigationManager
+@inject IUserService UserService
+@inject AuthenticationStateProvider AuthenticationStateProvider
+<link rel="stylesheet" href="/css/register.css">
+<div class="section">
+    <div class="container">
+        <div class="title has-text-centered">Sign Up</div>
+        <EditForm Model=_account id="register-form">
+         <DataAnnotationsValidator/>
+            <div class="field"><label class="label" for="username">User</label>
+                <div class="control has-icons-left"><InputText @bind-Value="_account.Username" class="input" type="text" placeholder="User" name="username" /><span class="icon is-left"><i class="fa">user</i></span></div>
+                <ValidationMessage For="@(() => _account.Username)"/>
+            </div>
+            <div class="field"><label class="label" for="password">Password</label>
+                <div class="control has-icons-left"><InputText @bind-Value="_account.Password" class="input" type="password" placeholder="Password" name="password" /><span class="icon is-left"><i class="fa">key</i></span></div>
+                <ValidationMessage For="@(() => _account.Password)"/>
+                    </div>
+                    <div class="field"><label class="label" for="retypePassword">Re-Type Password</label>
+                        <div class="control has-icons-left"><InputText @bind-Value="_account.ConfirmPassword" class="input" type="password" placeholder="Confirm Password" name="retypePassword" /><span class="icon is-left"><i class="fa">lock</i></span></div>
+                        <ValidationMessage For="@(() => _account.ConfirmPassword)"/>
+                    </div>
+            <div class="field is-grouped">
+                <div class="control"><button class="button control is-medium" @onclick="GoBack">Back</button></div>
+                <div class="control"><button class="button is-primary is-medium" @onclick="RegisterAccount"type="submit">Register</button></div>
+            
+                </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private Account _account;
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _account = new Account();
+    }
+    
+    private void GoBack()
+    {
+        NavigationManager.NavigateTo("/",true);
+    }
+
+    private async Task<User> RegisterAccount()
+    {
+        UserPw userPw = new UserPw(_account.Username, _account.Password);
+        User user = await UserService.RegisterUser(userPw);
+        await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLogin(userPw.Name, userPw.Password);
+        NavigationManager.NavigateTo("/Home");
+        return user;
+    }
+
+    public class Account
+    {
+        [Required(ErrorMessage = "User is required!")]
+        [RegularExpression("^[a-zA-Z0-9]+$", ErrorMessage = "Your username has illegal characters!")]
+        public string Username { get; set; }
+        [Required(ErrorMessage = "Password is required!")]
+        [MinLength(6,ErrorMessage = "Password must be at least 6 characters long")]
+        public string Password { get; set; }
+        [Required(ErrorMessage = "You must repeat your password!")]
+        [CompareProperty("Password",ErrorMessage = "Passwords must match!")]
+        public string ConfirmPassword { get; set; }
+    }
+}

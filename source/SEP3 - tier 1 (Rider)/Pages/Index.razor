@@ -1,0 +1,79 @@
+﻿@page "/"
+@using WebApplication7.Data
+@using WebApplication7.Authentication
+@attribute [AllowAnonymous]
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JsRuntime;
+@inject IUserService UserService
+<link rel="stylesheet" href="/css/login.css">
+<AuthorizeView>
+    <NotAuthorized>
+         <div>
+                    <div class="columns is-vcentered is-centered">
+                        <div class="login">
+                            <section class="section">
+                                <div class="has-text-centered">
+                                    <img class="login-logo is-rounded" id="img1" src="images/logo.png" alt="logo">
+                                </div>
+        
+                                <div class="field">
+                                    <label class="label">User</label>
+                                    <div class="control has-icons-right">
+                                        <input class="input" type="text" @bind-value="_username">
+                                        <span class="icon is-small is-right">
+                                            <i class="fa fa-user"></i>
+                                        </span>
+                                    </div>
+                                </div>
+        
+                                <div class="field">
+                                    <label class="label">Password</label>
+                                    <div class="control has-icons-right">
+                                        <input class="input" type="password" @bind-value="_password">
+                                        <span class="icon is-small is-right">
+                                            <i class="fa fa-key"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                                
+                                <div style="color: red">@_errorMessage</div>
+                                <div class="field is-grouped  has-text-centered">
+                                    <button class="button control is-medium" @onclick="PerformLoginAsync">Log in</button>
+                                    <button class="button control is-primary is-medium" @onclick="ToRegister">Register</button>
+                                </div>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+    </NotAuthorized>
+    <Authorized>
+        <h1><RedirectToHome></RedirectToHome></h1>
+    </Authorized>
+</AuthorizeView>
+@code {
+    private string _username;
+    private string _password;
+    private string _errorMessage;
+
+    public async Task PerformLoginAsync()
+    {
+        _errorMessage = "";
+        try
+        {
+            await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLogin(_username, _password);
+            _username = "";
+            _password = "";
+            NavigationManager.NavigateTo("/Home",true);
+        }
+        catch (Exception e)
+        {
+            _errorMessage = e.Message;
+        }
+    }
+
+    public void ToRegister()
+    {
+         NavigationManager.NavigateTo("/Register",true);
+    }
+}

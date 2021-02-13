@@ -1,0 +1,73 @@
+﻿@inject IGameService GameService
+@inject IRentService RentService
+@using WebApplication7.Data
+@using WebApplication7.Model
+@using WebApplication7.Authentication
+@inject AuthenticationStateProvider Authentication 
+@inject IJSRuntime Js
+@inject NavigationManager NavigationManager
+@page "/RentGame/{Id:int}"
+
+<link rel="stylesheet" href="/css/form.css">
+<link rel="stylesheet" href="/css/addGame.css">
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">@_game.Name</h1>
+        </div>
+    </div>
+</section>
+<div class="container mt-5">
+    <div class="has-text-centered title">
+        Select dates for renting @_game.Name
+    </div>
+    <div class="has-text-centered">
+        <EditForm Model="_rent">
+            <div class="field">
+                <label class="label">Rent From</label>
+                <div class="control">
+                    <TelerikDateRangePicker @bind-StartValue="@_rent.RentFrom" @bind-EndValue="@_rent.RentUntil" DisabledDates="@_disabledDates">
+                    </TelerikDateRangePicker>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+<div class="container has-text-centered">
+    <div>
+        <a btn class="cutesyButton mt-6 mb-6" type="submit" @onclick="RentGameHandler">Rent</a>
+    </div>
+</div>
+
+@code {
+    [Parameter] public int Id { get; set; }
+    
+    private User _user = new User();
+    private Game _game = new Game();
+    private Rent _rent = new Rent();
+    private List<DateTime> _disabledDates = new List<DateTime>();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        _game = await GameService.GetGame(Id);
+        _rent = new Rent {
+            RentFrom = DateTime.Now,
+            RentUntil = DateTime.Now.AddDays(1),
+            User = _user.Name,
+            GameId = Id
+        };
+        var existing = await RentService.GetRentsByGame(Id);
+        foreach (var i in existing)
+            for (DateTime j = new DateTime(i.RentFrom.Ticks); j.Ticks <= i.RentUntil.Ticks; j = j.AddDays(1))
+                _disabledDates.Add(new DateTime(j.Ticks));
+    }
+
+    private async Task RentGameHandler()
+    {
+         await RentService.PostRent(_rent);
+        NavigationManager.NavigateTo("/MyRents");
+    }
+}

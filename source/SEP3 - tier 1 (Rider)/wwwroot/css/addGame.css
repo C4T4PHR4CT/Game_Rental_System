@@ -1,0 +1,60 @@
+﻿.title {
+    color: black !important;    
+}
+
+.cutesyButton {
+    
+    text-transform: uppercase;
+    background: #ffffff;
+    padding: 20px;
+    border: 4px solid black !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    color: #494949 !important;
+    background: linear-gradient(90deg, rgba(97,255,182,1) 0%, rgba(239,254,121,1) 100%);
+}
+
+.cutesyButtonRent {
+    text-transform: uppercase;
+    background: #ffffff;
+    border: 4px solid black !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    color: #494949 !important;
+    background: linear-gradient(90deg, rgba(97,255,182,1) 0%, rgba(239,254,121,1) 100%);
+}
+
+.cutesyButtonRent:hover {
+    color: #494949 !important;
+    border-radius: 50px;
+    border-color: black !important;
+    transition: all 0.3s ease 0s;
+}
+
+.cutesyButtonDel {
+    text-transform: uppercase;
+    background: #ffffff;
+    border: 4px solid black !important;
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    color: #494949 !important;
+    background: linear-gradient(90deg, indianred 0%, rgba(239,254,121,1) 100%);
+}
+
+.cutesyButtonDel:hover {
+    color: #494949 !important;
+    border-radius: 50px;
+    border-color: black !important;
+    transition: all 0.3s ease 0s;
+}
+
+.cutesyButton:hover {
+    color: #494949 !important;
+    border-radius: 50px;
+    border-color: black !important;
+    transition: all 0.3s ease 0s;
+}
+

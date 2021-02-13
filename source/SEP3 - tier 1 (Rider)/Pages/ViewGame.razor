@@ -1,0 +1,80 @@
+﻿@page "/Game/{Id:int}"
+@using WebApplication7.Authentication
+@using WebApplication7.Data
+@using WebApplication7.Model
+@inject IGameService GameService
+@inject IUserService UserService
+@inject AuthenticationStateProvider Authentication 
+@inject IJSRuntime Js
+
+@inject NavigationManager NavigationManager
+<link rel="stylesheet" href="/css/form.css">
+<link rel="stylesheet" href="/css/addGame.css">
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">@_game.Name</h1>
+        </div>
+    </div>
+</section>
+<div class="container">
+    <div class="columns">
+        <div class="column"><div class="card mt-6">
+            <div class="card-content">
+                <div>
+                    @_game.Details
+                </div>
+                            
+            </div>
+            <footer class="card-footer">
+                <p class="card-footer-item">
+                    <span>
+                        Type: @_game.Type
+                    </span>
+                </p>
+                <p class="card-footer-item">
+                    <span>
+                        Genre: @_game.Genre
+                    </span>
+                </p>
+            </footer>
+        </div></div>
+        <div class="column">
+            <div class="card mt-6 has-text-centered">
+                <div class="card-content">
+                    <div>
+                        City : @_user.City
+                    </div>
+                    <div>
+                        Postcode: @_user.ZipCode
+                    </div>
+                    <div>
+                        Street: @_user.Street
+                    </div>
+                    <div>Phone: @_user.Phone</div>
+                </div>
+                <footer class="card-footer">
+                    <p class="card-footer-item">
+                        <span>
+                            Price: @_game.Price
+                        </span>
+                    </p>
+                </footer>
+            </div></div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private User _user = new User();
+    private Game _game = new Game();
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _game = await GameService.GetGame(Id);
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        Console.WriteLine(_user.ToString());
+
+    }
+}

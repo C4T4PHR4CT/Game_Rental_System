@@ -1,0 +1,74 @@
+﻿@page "/MyRents"
+@using WebApplication7.Model
+@using WebApplication7.Authentication
+@using WebApplication7.Data
+@using System.Collections
+@inject AuthenticationStateProvider Authentication
+@inject IJSRuntime Js
+@inject NavigationManager NavigationManager
+@inject IRentService RentService
+@inject IGameService GameService
+@inject IUserService UserService
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">Welcome back, @_user.Name</h1>
+        </div>
+    </div>
+</section>
+<div class="container">
+    <br/>
+    <TelerikGrid Data=@_rents
+                 Pageable="true"
+                 Sortable="true"
+                 PageSize="5"
+                 Navigable="true"
+                 Height="100%"
+                 Width="100%">
+
+        <GridColumns>
+            <GridColumn Field="@nameof(Rent.GameId)" Width="10%" Title="Id"/>
+            <GridColumn Field="@nameof(Rent.RentFrom)" Width="10%" Title="Rented From"/>
+            <GridColumn Field="@nameof(Rent.RentUntil)" Width="10%" Title="Rented Until"/>
+        </GridColumns>
+         
+                           <DetailTemplate>
+                                                   @{
+                                                       Rent rent = context as Rent;
+                                                       var current = (User) _users[rent];
+                                                   }
+                                                   <div class="level">
+                                                       <div class="level-left">
+                                                           <div class="level-item">
+                                                               Owner: @current.Name
+                                                           </div>
+                                                       </div>
+                                                       <div class="level-right">
+                                                           <div class="level-item">
+                                                               Phone number: @current.Phone
+                                                           </div>
+                                                           </div>
+                                                   </div>
+                                       </DetailTemplate>
+                                </TelerikGrid>
+</div>
+
+@code {
+    private User _user;
+    private List<Rent> _rents;
+    private Hashtable _users;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        _rents = await RentService.GetRentsByUser(_user.Name);
+        _users= new Hashtable();
+        foreach (var rent in _rents)
+        {
+            var temp1 = GameService.GetGame(rent.GameId);
+            User temp2 = await UserService.GetUser((await temp1).User);
+            _users.Add(rent, temp2);
+        }
+    }
+
+}

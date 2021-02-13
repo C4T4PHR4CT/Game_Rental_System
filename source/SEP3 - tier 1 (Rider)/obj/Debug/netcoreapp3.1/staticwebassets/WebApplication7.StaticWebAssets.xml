@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\xoxo\.nuget\packages\mudblazor\1.1.5\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Syncfusion.Blazor" Path="C:\Users\xoxo\.nuget\packages\syncfusion.blazor\18.3.0.52\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Telerik.UI.for.Blazor" Path="C:\Users\xoxo\.nuget\packages\telerik.ui.for.blazor\2.20.0\build\..\staticwebassets\" />
+</StaticWebAssets>

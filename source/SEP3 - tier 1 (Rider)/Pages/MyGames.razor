@@ -1,0 +1,97 @@
+﻿@page "/MyGames"
+@using WebApplication7.Model
+@using WebApplication7.Authentication
+@using WebApplication7.Data
+@using System.Collections
+@inject AuthenticationStateProvider Authentication
+@inject IJSRuntime Js
+@inject IGameService GameService
+@inject NavigationManager NavigationManager
+@inject IRentService RentService
+<link rel="stylesheet" href="/css/addGame.css">
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">Welcome back, @_user.Name</h1>
+        </div>
+           
+                <a class="btn cutesyButton mt-6" @onclick="AddGame">
+                Add a new game
+            </a>
+            
+    </div>
+</section>
+<div class="container">
+    <br/>
+    <TelerikGrid Data="@_games"
+                 Pageable="true"
+                 Sortable="true"
+                 SelectionMode="GridSelectionMode.Multiple"
+                 PageSize="5"
+                 Navigable="true"
+                 Height="100%"
+                 Width="100%"
+                 OnRowDoubleClick="@DoubleClickHandler"
+                 OnDelete="@DeleteItem">
+
+        <GridColumns>
+            <GridColumn Field="@nameof(Game.Id)" Width="5%" Title="Id"/>
+            <GridColumn Field="@nameof(Game.Name)" Width="10%" Title="Name"/>
+            <GridColumn Field="@nameof(Game.Type)" Width="5%" Title="Type"/>
+            <GridColumn Field="@nameof(Game.Price)" Width="10%" Title="Price per day"/>
+            <GridColumn Field="@nameof(Game.User)" Width="10%" Title="Owner"/>
+            <GridColumn Field="@nameof(Game.Details)" width="50%" Title="Description"/>
+            <GridCommandColumn Width="10%">
+                <GridCommandButton Command="Delete" Icon="delete" class="cutesyButtonDel mt-6 mb-6">Delete</GridCommandButton>
+                </GridCommandColumn>
+        </GridColumns>
+        <DetailTemplate>
+            @{
+                Game game = context as Game;
+                var current = (List<Rent>)_rents[game];
+            }
+            <TelerikGrid Data="@current"
+                         Height="300px"
+                         Pageable="true"
+                         Sortable="true"
+                         PageSize="5">
+                <GridColumns>
+                    <GridColumn Field=@nameof(Rent.RentFrom) Title="Rented From"/>
+                    <GridColumn Field=@nameof(Rent.RentUntil) Title="Rented Until"/>
+                    <GridColumn Field=@nameof(Rent.User) Title="Rentee"/>
+                  
+                </GridColumns>
+            </TelerikGrid>
+        </DetailTemplate>
+    </TelerikGrid>
+</div>
+@code {
+    private User _user;
+    private List<Game> _games;
+    private Hashtable _rents;
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        _games = await GameService.GetGamesOwned(_user.Name);
+        _rents = new Hashtable();
+        foreach (var game in _games)
+            if (game.Id != null) _rents.Add(game, await RentService.GetRentsByGame((int) game.Id));
+    }
+    
+    private void DoubleClickHandler(GridRowClickEventArgs args)
+    {
+        if (args.Item is Game model) NavigationManager.NavigateTo($"/EditGame/{model.Id}", true);
+    }
+
+    private void AddGame()
+    {
+        NavigationManager.NavigateTo("/AddGame", true);
+    }
+
+    private void DeleteItem(GridCommandEventArgs args)
+    {
+        if (args.Item is Game argsItem) GameService.DeleteGame(argsItem.Id);
+        NavigationManager.NavigateTo(NavigationManager.Uri, true);
+    }
+}

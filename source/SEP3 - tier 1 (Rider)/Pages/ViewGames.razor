@@ -1,0 +1,147 @@
+﻿@inject IGameService GameServiceInstance
+@inject IRentService RentService
+@inject NavigationManager NavigationManager
+@inject AuthenticationStateProvider Authentication
+@page "/view"
+@using WebApplication7.Data
+@inject IJSRuntime Js
+@using WebApplication7.Model
+@using WebApplication7.Authentication
+
+<link rel="stylesheet" href="/css/index.css">
+<link rel="stylesheet" href="/css/addGame.css">
+  
+   
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">View games below</h1>
+        </div>
+    </div>
+</section>
+<div class="container">
+    
+    <TelerikGrid Data=@_games
+                 Pageable="true"
+                 SelectionMode="GridSelectionMode.Multiple"
+                 PageSize=10
+                 Navigable="true"
+                 Height="100%"
+                 Width="100%"
+                 OnRowDoubleClick="@RowDbClkHandler"
+                 >
+        
+        <GridToolBar>
+            <div class="level">
+                <div class="level-left">
+                    <div class="level-item">
+                        <div class="field">
+                            <label class="label">Type</label>
+                            <div class="control">
+                                <TelerikDropDownList class="input" Data="_types" @bind-Value="Type"></TelerikDropDownList>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="level-item">
+                                            <div class="field">
+                                                <label class="label">OrderBy</label>
+                                                <div class="control">
+                                                    <TelerikDropDownList class="input" Data="_ordering" @bind-Value="OrderBy"></TelerikDropDownList>
+                                                </div>
+                                            </div>
+                                        </div>
+                    <div class="level-item">
+                        <div class="field">
+                            <label class="label">Genres</label>
+                            <div class="control">
+                                <TelerikTextBox @bind-Value="Genre"></TelerikTextBox>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="level-item">
+                        <div class="field">
+                            <label class="label">Name</label>
+                            <div class="control">
+                                <TelerikTextBox @bind-Value="Name"></TelerikTextBox>
+                            </div>
+                        </div>
+                    </div>
+                           <div class="level-item">
+                                                                <div class="field">
+                                                                    <label class="label">isDescending</label>
+                                                                    <div class="control">
+                                                                        <TelerikCheckBox @bind-Value="IsDescending"></TelerikCheckBox>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                    <div class="level-item">
+                        <div class="control">
+                            <TelerikButton OnClick="SearchIt">Search</TelerikButton>
+                        </div>
+                    </div>
+              
+                </div>
+                
+            </div>
+        </GridToolBar>
+        <GridColumns>
+            <GridColumn Field="@nameof(Game.Id)" Width="5%" Title="Id"/>
+            <GridColumn Field="@nameof(Game.Name)" Width="10%" Title="Name"/>
+            <GridColumn Field="@nameof(Game.Genre)" width="5%" Title="Genre"/>
+             <GridColumn Field="@nameof(Game.Type)" Width="5%" Title="Type"/>
+            <GridColumn Field="@nameof(Game.User)" Width="10%" Title="Owner"/>
+            <GridColumn Field="@nameof(Game.Price)" Width="5%" Title="Price"/>
+            <GridColumn Field="@nameof(Game.Details)" width="30%" Title="Description"/>
+            <GridColumn width="10%">
+                <Template >
+                    @{
+                        Game game = context as Game;
+                    }
+                    <TelerikButton Class="cutesyButton" OnClick="(Item => ViewGame((game)?.Id))">
+                        <i class="far fa-comment"></i>
+                        View Game
+                    </TelerikButton>
+
+                </Template>
+                    </GridColumn>
+        </GridColumns>
+    </TelerikGrid>
+</div>
+    
+@code {
+    private List<Game> _games;
+   
+    
+    private bool IsDescending { get; set; }
+    private string Type { get; set; }
+    private string Genre { get; set; }
+    private string Name { get; set; }
+    private string OrderBy { get; set; }
+    
+    private readonly List<string> _types= new List<string> { "Board","PC","PS1","PS2","PS3","PS4","PS5","PSP","XBOX 360", "XBOX ONE", "SWITCH", "NES", "SEGA", "GAMEBOY","GAMECUBE"};
+    private readonly List<string> _ordering = new List<string> {"Price", "User", "Name", "Genre", "Rating"};
+    
+    
+    private async Task SearchIt()
+    {
+        Search search = new Search {
+            Genre = Genre,
+            Name = Name,
+            Type = Type,
+            OrderBy = OrderBy,
+            IsDescending = IsDescending
+        };
+        _games = await GameServiceInstance.GetGamesBySearch(search);
+        StateHasChanged();
+    }
+
+    private void RowDbClkHandler(GridRowClickEventArgs args)
+    {
+        if (args.Item is Game model) NavigationManager.NavigateTo($"/RentGame/{model.Id}");
+    }
+
+    private void ViewGame(int? id)
+    {
+        NavigationManager.NavigateTo($"/Game/{id}");
+    }
+}

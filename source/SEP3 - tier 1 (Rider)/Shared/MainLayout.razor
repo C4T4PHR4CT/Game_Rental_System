@@ -1,0 +1,12 @@
+﻿@inherits LayoutComponentBase
+@layout TelerikLayout
+<AuthorizeView>
+    <NotAuthorized>
+        @Body
+    </NotAuthorized>
+    <Authorized>
+        <Navbar/>
+       
+        @Body
+    </Authorized>
+</AuthorizeView>

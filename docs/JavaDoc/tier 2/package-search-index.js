@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.EvaAndTheSovietHouseholdAppliances"},{"l":"org.EvaAndTheSovietHouseholdAppliances.controllers"},{"l":"org.EvaAndTheSovietHouseholdAppliances.mediator"},{"l":"org.EvaAndTheSovietHouseholdAppliances.model"}]

@@ -1,0 +1,107 @@
+﻿@page "/MyProfile"
+@using WebApplication7.Authentication
+@using WebApplication7.Model
+@using System.Threading
+@using WebApplication7.Data
+@inject IUserService UserService
+@inject AuthenticationStateProvider Authentication
+@inject IJSRuntime Js
+@inject NavigationManager NavigationManager
+<link rel="stylesheet" href="/css/form.css">
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">Edit your information</h1>
+        </div>
+    </div>
+</section>
+<div class="container mt-5">
+    <div class="has-text-centered title">
+        @_oldUserName's Profile 
+    </div>
+    <div class="columns">
+        <div class="column has-text-centered">
+            <EditForm Model="_user">
+                <DataAnnotationsValidator/>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <div class="control">
+                        <InputText @bind-Value="_user.Name" type="text" class="form__input" placeholder="Name"></InputText>
+                        <ValidationMessage For="@(() => _user.Name)"/>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Phone</label>
+                    <div class="control">
+                        <InputNumber @bind-Value="_user.Phone" type="tel" placeholder="Phone" class="form__input"></InputNumber>
+                    </div>
+                </div>
+            </EditForm>
+            <div class="field">
+                <label class="label">Password</label>
+                <div class="control">
+                    <input @bind="_password" type="password" class="form__input">
+                </div>
+            </div>
+           
+        </div>
+        <div class="column has-text-centered">
+            <EditForm Model="_user">
+                <div class="field">
+                    <label class="label">City</label>
+                    <div class="control">
+                        <InputText @bind-Value="_user.City" placeholder="City" class="form__input"></InputText>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Zipcode</label>
+                    <div class="control">
+                        <InputNumber @bind-Value="_user.ZipCode" placeholder="Zipcode" class="form__input"></InputNumber>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Street</label>
+                    <div class="control">
+                        <InputText @bind-Value="_user.Street" placeholder="Street" class="form__input"></InputText>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Street Number</label>
+                    <div class="control">
+                        <InputText @bind-Value="_user.Number" placeholder="Street Number" class="form__input"></InputText>
+                    </div>
+                </div>
+
+            </EditForm>
+        </div>
+    </div>
+</div>
+<div class="container has-text-centered">
+    <TelerikButton Primary="true" class="round-button" @onclick="Submit"><i class="fa fa-check"></i></TelerikButton>
+</div>
+
+@code {
+    private User _user;
+    private string _password = "";
+    private string _oldUserName = "";
+    
+    protected override async Task OnInitializedAsync()
+    {
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        _oldUserName = _user.Name;
+    }
+
+     private void Submit()
+     {
+         UserService.PutUser(_user, _oldUserName);
+         new Thread(() => {
+                              Thread.Sleep(100);
+                              if (!string.IsNullOrWhiteSpace(_password))
+                                  UserService.UpdatePw(new UserPw(_user.Name, _password));
+         }).Start();
+         NavigationManager.NavigateTo("/Home");
+     }
+
+
+
+}

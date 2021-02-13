@@ -1,0 +1,95 @@
+﻿@using WebApplication7.Authentication
+@using WebApplication7.Model
+@using WebApplication7.Data
+
+@inject AuthenticationStateProvider Authentication
+@inject IJSRuntime Js
+@inject IGameService GameService
+@inject NavigationManager NavigationManager
+
+@page "/AddGame"
+<link rel="stylesheet" href="/css/form.css">
+<link rel="stylesheet" href="/css/addGame.css">
+<section class="hero is-medium is-primary is-bold">
+    <div class="hero-body has-text-centered">
+        <div class="container">
+            <h1 class="title">Add a new game, @_user.Name</h1>
+        </div>
+    </div>
+</section>
+<div class="container mt-5">
+    <div class="columns">
+        <div class="column has-text-centered">
+            <EditForm Model="_user">
+                <div class="field">
+                    <label class="label">Game Name</label>
+                    <div class="control">
+                        <InputText @bind-Value="_game.Name" type="text" class="form__input" ></InputText>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Price</label>
+                    <div class="control">
+                        <InputNumber @bind-Value="_game.Price" type="number" class="form__input" placeholder="Price"></InputNumber>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Type</label>
+                    <div class="control">
+                        <InputSelect @bind-Value="_game.Type" placeholder="Type" class="form__input">
+                            <option value="Board">Board Game</option>
+                                <option value="PC">PC</option>
+                                <option value="PS4">PS4</option>
+                            <option value="PS5">PS5</option>
+                            <option value="XBOX 360">XBOX 360</option>
+                            <option value="XBOX ONE">XBOX ONE</option>
+                            <option value="Switch">Switch</option>
+                            <option value="PSP">PSP</option>
+                            <option value="PS2">PS2</option>
+                            <option value="PS1">PS1</option>
+                            <option value="NES">NES</option>
+                            <option value="SEGA">Sega</option>
+                            <option value="GAMEBOY">Gameboy</option>
+                            <option value="GAMECUBE">Gamecube</option>
+                            
+                        </InputSelect>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Genre</label>
+                    <div class="control">
+                        <InputText @bind-Value="_game.Genre" type="text" placeholder="Genre" class="form__input"></InputText>
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Description</label>
+                    <div class="control">
+                        <InputTextArea @bind-Value="_game.Details" style="resize: none;"  rows="4" cols="50" placeholder="Description" class="form__input"></InputTextArea>
+                        </div>
+                    </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+<div class="container has-text-centered">
+    <div>
+        <a btn class="cutesyButton mt-6 mb-6" type="submit" @onclick="SubmitGame">Submit</a>
+    </div>
+</div>
+
+@code {
+    private User _user;
+    private Game _game = new Game();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _user = await ((CustomAuthenticationStateProvider) Authentication).GetCachedUser();
+        _game = new Game{Type = "Board", User = _user.Name};
+    }
+
+    private async Task SubmitGame()
+    {
+        await GameService.AddGame(_game);
+        NavigationManager.NavigateTo("/MyGames");
+    }
+}

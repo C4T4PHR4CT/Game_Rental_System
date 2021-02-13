@@ -1,0 +1,742 @@
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.exe
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.dll
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\MudBlazor.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\MOCK.json
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+D:\.net\Solution1\WebApplication7\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+D:\.net\Solution1\WebApplication7\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\MOCK.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.exe
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\MudBlazor.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.dll
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+E:\Uni\SEP3\Version 2\bin\Debug\netcoreapp3.1\MOCKRENT.json
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+E:\Uni\SEP3\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\appsettings.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\MOCK.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\MOCKRENT.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.exe
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\MudBlazor.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+D:\proof of concept\Version 2\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGame.razor.g.cs
+D:\proof of concept\Version 2\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.dll
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\MOCK.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\MOCKRENT.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.exe
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\MudBlazor.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+C:\Users\Levente\Desktop\asdf\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.output.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGame.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication7.styles.css
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+C:\Users\Levente\Desktop\asdf\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\MOCK.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\MOCKRENT.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.exe
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\MudBlazor.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+D:\proof of concept\Version 3\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGame.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\Version 3\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MOCK.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MOCKRENT.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.exe
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MudBlazor.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewData.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.output.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\ViewData.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGame.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication7.styles.css
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.dll
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGamesOld.razor.g.cs
+C:\Users\Levente\Documents\RiderProjects\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyGamesOld.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MOCK.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MOCKRENT.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.exe
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.deps.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.runtimeconfig.dev.json
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.Views.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.Web.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Microsoft.JSInterop.WebAssembly.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\MudBlazor.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.Blazor.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.ExcelExport.Net.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.Licensing.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Syncfusion.PdfExport.Net.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.DataSource.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Documents.SpreadsheetStreaming.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Recurrence.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Blazor.dll
+D:\proof of concept\SEP3 - tier 1\bin\Debug\netcoreapp3.1\Telerik.Zip.dll
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csprojAssemblyReference.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfoInputs.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.AssemblyInfo.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CoreCompileInputs.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.MvcApplicationPartsAssemblyInfo.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorComponent.input.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Data.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyGames.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyProfile.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MyRents.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Register.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\RentGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\Navbar.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\WebApplication7.dll
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.input.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.TagHelpers.output.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorCoreGenerate.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\AddGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Data.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\EditGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyGames.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyProfile.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\MyRents.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\Register.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\RentGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGame.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\Navbar.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToHome.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\RedirectToLogin.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Shared\TelerikLayout.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorAssemblyInfo.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.RazorTargetAssemblyInfo.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.Views.pdb
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.csproj.CopyComplete
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.Manifest.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication7.StaticWebAssets.xml
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.dll
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.pdb
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\WebApplication7.genruntimeconfig.cache
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ViewGames.razor.g.cs
+D:\proof of concept\SEP3 - tier 1\obj\Debug\netcoreapp3.1\Razor\Pages\ViewGames.razor.g.cs
